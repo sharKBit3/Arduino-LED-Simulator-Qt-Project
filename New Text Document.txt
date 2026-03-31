@@ -1,0 +1,68 @@
+LED ON:
+
+void setup() {
+  pinMode(13, OUTPUT);
+
+void loop() {
+digitalWrite(13, HIGH);
+}
+
+LED OFF:
+void setup(){
+pinMode(13, OUTPUT);
+}
+void loop(){
+digitalWrite(13, LOW);
+}
+
+Blinking:
+void setup() {
+  pinMode(13, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(13, HIGH);
+  delay(500);
+  digitalWrite(13, LOW);
+  delay(500);
+}
+
+Multiple BLinking:
+void setup() {
+  pinMode(13, OUTPUT);
+  pinMode(12, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(13, HIGH);
+  digitalWrite(12, LOW);
+  delay(500);
+
+  digitalWrite(13, LOW);
+  digitalWrite(12, HIGH);
+  delay(500);
+}
+
+
+Blinking with different speed:
+void setup() {
+  pinMode(13, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(13, HIGH);
+  delay(1000);
+  digitalWrite(13, LOW);
+  delay(1000);
+}
+
+detection in code:
+void setup() {
+  pinMode(2, INPUT);
+}
+
+void loop() {
+  int state = digitalRead(2);
+}
+
+

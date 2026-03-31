@@ -1,0 +1,11 @@
+set(lupdate_project_file "C:/Users/abdul/Desktop/Folder/untitled1/CMakeLists.txt")
+set(lupdate_translations "C:/Users/abdul/Desktop/Folder/untitled1/untitled1_en_DE.ts")
+set(lupdate_include_paths "")
+set(lupdate_sources "")
+set(lupdate_subproject_count 1)
+
+set(lupdate_subproject1_source_dir "C:/Users/abdul/Desktop/Folder/untitled1")
+set(lupdate_subproject1_include_paths "C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/untitled1_autogen/include;C:/Qt/6.11.0/mingw_64/include/QtCore;C:/Qt/6.11.0/mingw_64/include;C:/Qt/6.11.0/mingw_64/mkspecs/win32-g++;C:/Qt/6.11.0/mingw_64/include;C:/Qt/6.11.0/mingw_64/include/QtWidgets;C:/Qt/6.11.0/mingw_64/include;C:/Qt/6.11.0/mingw_64/include/QtGui;C:/Qt/6.11.0/mingw_64/include")
+set(lupdate_subproject1_sources "C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp;main.cpp;mainwindow.cpp;mainwindow.h;mainwindow.ui;C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/untitled1_translations.qrc;C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/untitled1_en_DE.qm;C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_untitled1_translations.cpp;C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/untitled1_autogen/include/ui_mainwindow.h;C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp;C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/untitled1_en_DE.qm.rule;C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_untitled1_translations.cpp.rule;C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/untitled1_autogen/timestamp.rule")
+set(lupdate_subproject1_excluded "")
+set(lupdate_subproject1_autogen_dir "C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/untitled1_autogen")

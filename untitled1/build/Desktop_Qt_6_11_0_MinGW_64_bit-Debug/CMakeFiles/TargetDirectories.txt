@@ -1,0 +1,13 @@
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/untitled1.dir
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/untitled1_lupdate.dir
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/update_translations.dir
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/untitled1_lrelease.dir
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/release_translations.dir
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/untitled1_autogen_timestamp_deps.dir
+C:/Users/abdul/Desktop/Folder/untitled1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/untitled1_autogen.dir
